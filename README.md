@@ -61,7 +61,7 @@ mediconnect/
 
 ### 🏥 Patient Dashboard
 
-![Patient Dashboard](./screenshots/2.png)
+![Patient Dashboard](2.png)
 ![Patient Dashboard](./screenshots/3.png)
 
 
