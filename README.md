@@ -30,6 +30,9 @@ Protected routes — each role sees only their relevant dashboard
 Persistent auth state via Context API
 
 
+## 📂 Project Structure
+
+```text
 mediconnect/
 ├── public/
 ├── src/
@@ -52,6 +55,7 @@ mediconnect/
 ├── index.html
 ├── vite.config.js
 └── package.json
+```
 
 ## 📸 Screenshots
 ### 🔐 Login Page
