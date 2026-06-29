@@ -53,6 +53,29 @@ mediconnect/
 ├── vite.config.js
 └── package.json
 
+## 📸 Screenshots
+### 🔐 Login Page
+
+
+
+
+### 🏥 Patient Dashboard
+
+
+
+
+
+### 🏥 Doctor Dashboard
+
+
+
+
+
+### 🏥 Pharmacist Dashboard
+
+
+
+
 
 View incoming prescriptions
 Mark prescriptions as fulfilled / dispensed
