@@ -78,7 +78,3 @@ mediconnect/
 
 
 
-
-View incoming prescriptions
-Mark prescriptions as fulfilled / dispensed
-Track prescription queue and history
