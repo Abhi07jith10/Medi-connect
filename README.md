@@ -2,29 +2,29 @@ MediConnect is a frontend-focused Healthcare Management System designed to simul
 
 Built as a resume-showcase project, MediConnect highlights practical skills in React architecture, component design, client-side routing, and state management using the Context API.
 
-✨ Features
+ Features
 
-🩺 Doctor Dashboard
+Doctor Dashboard
 View and manage patient appointments
 Create and issue prescriptions
 Access patient medical history
 Appointment status management (Confirm / Cancel / Complete)
 
 
-🧑‍⚕️ Patient Dashboard
+Patient Dashboard
 Book appointments with available doctors
 View upcoming and past appointments
 Access issued prescriptions
 Track prescription fulfillment status
 
 
-💊 Pharmacist Dashboard
+Pharmacist Dashboard
 View incoming prescriptions
 Mark prescriptions as fulfilled / dispensed
 Track prescription queue and history
 
 
-🔐 Authentication & Role-Based Access
+Authentication & Role-Based Access
 Simulated login with role selection (Doctor / Patient / Pharmacist)
 Protected routes — each role sees only their relevant dashboard
 Persistent auth state via Context API
