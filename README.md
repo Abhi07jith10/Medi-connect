@@ -2,7 +2,7 @@ MediConnect is a frontend-focused Healthcare Management System designed to simul
 
 Built as a resume-showcase project, MediConnect highlights practical skills in React architecture, component design, client-side routing, and state management using the Context API.
 
- Features
+## Features
 
 ## Doctor Dashboard
 
