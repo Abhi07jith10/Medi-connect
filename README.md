@@ -11,14 +11,14 @@ Access patient medical history
 Appointment status management (Confirm / Cancel / Complete)
 
 
-Patient Dashboard
+## Patient Dashboard
 Book appointments with available doctors
 View upcoming and past appointments
 Access issued prescriptions
 Track prescription fulfillment status
 
 
-Pharmacist Dashboard
+## Pharmacist Dashboard
 View incoming prescriptions
 Mark prescriptions as fulfilled / dispensed
 Track prescription queue and history
