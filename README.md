@@ -4,11 +4,12 @@ Built as a resume-showcase project, MediConnect highlights practical skills in R
 
  Features
 
-## Doctor Dashboard
-View and manage patient appointments
-Create and issue prescriptions
-Access patient medical history
-Appointment status management (Confirm / Cancel / Complete)
+## 👨‍⚕️ Doctor Dashboard
+
+- View and manage patient appointments
+- Create and issue prescriptions
+- Access patient medical history
+- Appointment status management (Confirm / Cancel / Complete)
 
 
 ## Patient Dashboard
