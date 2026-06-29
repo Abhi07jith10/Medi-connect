@@ -56,23 +56,25 @@ mediconnect/
 ## 📸 Screenshots
 ### 🔐 Login Page
 
-
+![Login Page](./screenshots/1.png)
 
 
 ### 🏥 Patient Dashboard
 
+![Patient Dashboard](./screenshots/2.png)
+![Patient Dashboard](./screenshots/3.png)
 
 
 
 
 ### 🏥 Doctor Dashboard
 
-
-
+![Doctor Dashboard](./screenshots/4.png)
+![Doctor Dashboard](./screenshots/5.png)
 
 
 ### 🏥 Pharmacist Dashboard
-
+![Pharmacist Dashboard](./screenshots/6.png)
 
 
 
